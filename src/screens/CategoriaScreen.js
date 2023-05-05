@@ -28,15 +28,17 @@ export default function CategoriaScreen({ navigation }) {
         </TouchableOpacity>
         <TouchableOpacity
           style={styles.item}
-          onPress={() => abrirCursos(cursosMock, 'AI')}
+          onPress={() => abrirCursos(cursosMock, 'CAI')}
         >
-          <Text style={styles.itemText}>APRENDIZAGEM INDUSTRIAL</Text>
+          <Text style={styles.itemText}>APRENDIZAGEM INDUSTRIAL (CAI)</Text>
         </TouchableOpacity>
         <TouchableOpacity
           style={styles.item}
           onPress={() => abrirCursos(cursosMock, 'FIC')}
         >
-          <Text style={styles.itemText}>FORMAÇÃO INICIAL E CONTINUADA</Text>
+          <Text style={styles.itemText}>
+            FORMAÇÃO INICIAL E CONTINUADA (FIC)
+          </Text>
         </TouchableOpacity>
       </View>
     </View>

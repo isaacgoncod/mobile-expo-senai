@@ -36,7 +36,7 @@ const cursos = [
     },
   },
   {
-    tipo: 'AI',
+    tipo: 'CAI',
     titulo: 'ELETRICISTA DE MANUTENÇÃO ELETROELETRÔNICA',
     modalidade: 'PRESENCIAL',
     area: 'ELETRICIDADE',
@@ -54,7 +54,7 @@ const cursos = [
     },
   },
   {
-    tipo: 'AI',
+    tipo: 'CAI',
     titulo:
       'MECÂNICO DE BOMBAS, MOTORES, COMPRESSORES E EQUIPAMENTOS DE TRANSMISSÃO',
     modalidade: 'PRESENCIAL',
@@ -73,7 +73,7 @@ const cursos = [
     },
   },
   {
-    tipo: 'AI',
+    tipo: 'CAI',
     titulo: 'MECÂNICO DE USINAGEM',
     modalidade: 'PRESENCIAL',
     area: 'METALMECÂNICA - MECÂNICA',
